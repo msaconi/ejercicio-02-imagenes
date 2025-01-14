@@ -29,23 +29,25 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #194a9e;
     text-align:left;
-    font-size:13px;
+    font-size:14px;
 }
 
 .pop_century {
     float: right;
-    width: 400px;
+    width: 390px;
+    border-left: 8px solid white;
 }
 
 .caribbean_beach {
     float: left;
-    width: 400px;
+    width: 390px;
     border-right: 8px solid white;
 }
 
 .animal_kingdom {
     float: right;
-    width: 400px;
+    width: 390px;
+    border-left: 8px solid white;
 }
 
 .mickey_minnie {
